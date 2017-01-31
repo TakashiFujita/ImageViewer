@@ -1,0 +1,8 @@
+C:\GitHub\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+C:\GitHub\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+C:\GitHub\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csprojResolveAssemblyReference.cache
+C:\GitHub\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+C:\GitHub\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+C:\GitHub\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+C:\GitHub\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
+C:\GitHub\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb
